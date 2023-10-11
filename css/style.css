@@ -1,0 +1,82 @@
+body{
+    background-color:  #f6f45e
+}
+.container{
+        width: 800px;
+        margin: auto;
+        background-color:white;
+}
+.header ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.cover {
+    height: 400px;
+    width: 800px;
+    margin: auto;
+    background-image: url(/img/ilustrasi-junk-food-istockphoto.jpg);
+}
+.box2{
+    width: 90px;
+    height: 10px;
+    background-color: burlywood;
+}
+.box1{
+    width: 800px;
+    height: 1840px;
+    background-color: burlywood;
+}
+.content h1{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.content h4{
+    margin-left: 20px;
+}
+.content p{
+    margin-left: 20px;
+    word-spacing: 0;
+}
+.product h1{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.product h3{
+    margin-left: 20px;
+}
+.product p{
+    margin-left: 20px;
+}
+.services h1{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.services h3{
+    margin-left: 20px;
+}
+.services p{
+    margin-left: 20px;
+}
+.services form{
+    margin-left: 20px;
+}
+.about us h1{
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+.about us h4{
+    margin-left: 20px;
+}
+.about us p{
+    margin-left: 20px;
+}
+.footer{
+    background-color: red;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+.footer p{
+    font-size: 20px;
+}
